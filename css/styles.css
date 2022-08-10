@@ -1,0 +1,30 @@
+  /* Color for the page background */
+body {
+  background-color: #EAF6F6;
+}
+
+/* Horizontal line */
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: #66BFBF
+}
+h3 {
+  color: #66BFBF
+}
+/* hr {
+  background-color: white;
+  border-style: none;
+  height: 2px;
+}     */
+
+/* size of the image */
+img{
+  height: 200px;
+}
